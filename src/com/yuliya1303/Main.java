@@ -7,4 +7,8 @@ public class Main {
         System.out.println("The second line by Yuliya");
         System.out.println("The 3 line by Yuliya");
     }
+    
+    public static void valery(String[] args) {
+        System.out.println("The first line by Valery");
+    }
 }
