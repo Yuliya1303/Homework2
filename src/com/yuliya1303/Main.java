@@ -9,6 +9,6 @@ public class Main {
     }
     
     public static void valery(String[] args) {
-        System.out.println("The first line by Valery");
+        System.out.println("Yuliya fixed the first line by Valery");
     }
 }
